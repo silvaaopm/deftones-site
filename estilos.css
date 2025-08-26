@@ -56,6 +56,9 @@ th {
     background-color: #333;
 }
 
+div.h1{
+    text-align: center;
+}
 .albuns {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
